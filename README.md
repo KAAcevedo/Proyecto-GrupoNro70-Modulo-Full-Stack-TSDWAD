@@ -15,11 +15,9 @@ El proyecto se basa en la realización de un sitio web que permite consultar qu�
 * Python
 * MySQL 
 
-## Mapa del sitio (home-page)
+## Mapa del sitio
 
-
-> [Insertar imagen aquí]
-
+> ![map_site](https://user-images.githubusercontent.com/101379577/195094986-9b9f83b3-fd43-4702-b42f-d4589fc0dec2.jpeg "Mapa del Sitio")
 
 
 ## Colaboradores

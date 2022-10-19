@@ -7,7 +7,6 @@ El proyecto se basa en la realización de un sitio web que permite consultar qu�
 ## Tecnologías a usar en el Front-End
 * HTML5
 * CSS3 
-* JavaScript
 * Bootstrap
 * Figma
 

@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+}
+
+.header-flex{
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #E89F31;
+    height: auto;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#logo{
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    margin: 0.5rem;
+    width: 5rem;
+    height: auto;
+}
+
+.nav-flex{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+
+
+nav ul li{
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    padding: 2rem;
+}
+
+nav ul li input{
+    background-color: #FFFFFF;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+
+}
+
+nav ul li a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#buscar{
+    display: inline-block;
+    color: #ffffff;
+    /* background-color: #FFFFFF; */
+    border-radius: 55%;
+}
+
+#login{
+    color: #E89F31;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    padding: 1rem;
+    text-decoration: none;
+}

@@ -58,3 +58,37 @@ nav ul li a{
     padding: 1rem;
     text-decoration: none;
 }
+
+.titulo-categoria{
+    color: #E89F31;
+    text-align: center;
+    margin: 1rem 0.5rem;
+    font-size: 1.5rem;
+}
+
+.container-fluid{
+    background-color: #E89F31;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #E89F31;
+    width: 100%;
+    height: auto;
+}
+
+footer div ul li {
+    list-style: none;
+}
+
+.img-footer{
+    width: 6rem;
+    height: auto;
+}
+
+.titulo-footer{
+    color: #FFFFFF;
+
+}
+

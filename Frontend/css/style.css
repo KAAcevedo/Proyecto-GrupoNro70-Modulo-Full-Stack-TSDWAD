@@ -59,6 +59,10 @@ nav ul li a{
     text-decoration: none;
 }
 
+main h1{
+    text-align: center;
+}
+
 .titulo-categoria{
     color: #E89F31;
     text-align: center;
@@ -91,4 +95,6 @@ footer div ul li {
     color: #FFFFFF;
 
 }
+
+/* -------------------------------------- */
 
